@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "lUos8ABZVZZf9eJdvXSs2iyW0c8PKmkOxNtUzXt4UpuYgug/pyMkhflyXX+2IsMgI6HtspaVoWcQULuF5lfs4Q==",
+  "success": true,
+  "projectFilePath": "/Users/polinakrasnianska/Documents/TalanTraining/Fibonacci/FibGenerator/FibGenerator.csproj",
+  "expectedPackageFiles": [
+    "/Users/polinakrasnianska/.nuget/packages/castle.core/5.1.0/castle.core.5.1.0.nupkg.sha512",
+    "/Users/polinakrasnianska/.nuget/packages/castle.windsor/6.0.0/castle.windsor.6.0.0.nupkg.sha512",
+    "/Users/polinakrasnianska/.nuget/packages/microsoft.extensions.dependencymodel/6.0.0/microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "/Users/polinakrasnianska/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/polinakrasnianska/.nuget/packages/system.commandline/2.0.0-beta4.22272.1/system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "/Users/polinakrasnianska/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "/Users/polinakrasnianska/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/polinakrasnianska/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/polinakrasnianska/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/polinakrasnianska/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
