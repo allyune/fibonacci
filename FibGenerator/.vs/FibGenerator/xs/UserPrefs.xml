@@ -1,5 +1,36 @@
 ﻿<Properties StartupConfiguration="{4CA8F0B2-4FC9-49A6-94B2-2871CBE6E377}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CommandHandlers/FibCommandHandler/FibCommandHandler.cs">
+    <Files>
+      <File FileName="Program.cs" Line="29" Column="10" />
+      <File FileName="CommandHandlers/HelpCommandHandler/IHelpCommandHandler.cs" Line="6" Column="24" />
+      <File FileName="CommandHandlers/FibCommandHandler/IFibCommandHandler.cs" Line="13" Column="1" />
+      <File FileName="Commands/FibCommand.cs" Line="14" Column="101" />
+      <File FileName="Commands/ICommand.cs" Line="10" Column="1" />
+      <File FileName="CommandHandlers/FibCommandHandler/FibCommandHandler.cs" Line="31" Column="1" />
+      <File FileName="CommandHandlers/HelpCommandHandler/HelpCommandHandler.cs" Line="12" Column="30" />
+      <File FileName="Commands/HelpCommand.cs" Line="19" Column="6" />
+      <File FileName="ServiceResolver.cs" Line="7" Column="2" />
+      <File FileName="FibGenerator/RecursiveFibGenerator.cs" Line="21" Column="7" />
+      <File FileName="FibGenerator/IFibGenerator.cs" Line="4" Column="2" />
+      <File FileName="../FibGenerator.Tests/FibGeneratorTests.cs" Line="52" Column="29" />
+      <File FileName="DomainInstaller.cs" Line="13" Column="94" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FibGenerator" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.FibGenerator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.FibGenerator.Tests FirstBuild="True" />
 </Properties>
