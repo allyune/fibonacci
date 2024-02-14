@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{4CA8F0B2-4FC9-49A6-94B2-2871CBE6E377}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FibGenerator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.FibGenerator.Tests FirstBuild="True" />
+</Properties>
